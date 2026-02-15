@@ -188,3 +188,5 @@ pyrightconfig.json
 outputs/
 *.pkl
 *.joblib
+
+.DS_Store
